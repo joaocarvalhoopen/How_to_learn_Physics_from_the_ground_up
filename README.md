@@ -16,28 +16,31 @@ One of the most valuable resources in math and physics from school to college. <
 
 # Motivation to Physics
 
-1. **“Surely You’re Joking, Mr. Feynman!”: Adventures of a Curious Character** <br>
+1. **Video - The Map of Physics** <br>
+   [https://www.youtube.com/watch?v=ZihywtixUYo](https://www.youtube.com/watch?v=ZihywtixUYo) 
+
+2. **“Surely You’re Joking, Mr. Feynman!”: Adventures of a Curious Character** <br>
    by Richard P. Feynman, Ralph Leighton
 
-2. **"What Do You Care What Other People Think?": Further Adventures of a Curious Character** <br>
+3. **"What Do You Care What Other People Think?": Further Adventures of a Curious Character** <br>
    by Richard P. Feynman, Ralph Leighton
 
-3. **The Flying Circus of Physics** <br>
+4. **The Flying Circus of Physics** <br>
    by Jearl Walker
 
-4. **For the Love of Physics: From the End of the Rainbow to the Edge of Time - A Journey Through the Wonders of Physics** <br>
+5. **For the Love of Physics: From the End of the Rainbow to the Edge of Time - A Journey Through the Wonders of Physics** <br>
    by Walter Lewin, Warren Goldstein
 
-5. **Astrophysics for People in a Hurry : Essays on the Universe and Our Place Within It** <br>
+6. **Astrophysics for People in a Hurry : Essays on the Universe and Our Place Within It** <br>
    by Neil de Grasse Tyson
 
-6. **The Physics Book: Big Ideas Simply Explained** <br>
+7. **The Physics Book: Big Ideas Simply Explained** <br>
    by DK, Jim Al-Khalili
 
-7. **The Astronomy Book: Big Ideas Simply Explained** <br>
+8. **The Astronomy Book: Big Ideas Simply Explained** <br>
    by DK
 
-8. **Powers of Ten** <br>
+9.  **Powers of Ten** <br>
    by Philip Morrison, Phylis Morrison
 
 
