@@ -19,28 +19,37 @@ One of the most valuable resources in math and physics from school to college. <
 1. **Video - The Map of Physics** <br>
    [https://www.youtube.com/watch?v=ZihywtixUYo](https://www.youtube.com/watch?v=ZihywtixUYo) 
 
-2. **“Surely You’re Joking, Mr. Feynman!”: Adventures of a Curious Character** <br>
+2. **Video - The Map of Quantum Physics** <br>
+   [https://www.youtube.com/watch?v=gAFAj3pzvAA](https://www.youtube.com/watch?v=gAFAj3pzvAA)
+
+3. **Video - The Map of Particle Physics - The Standard Model Explained** <br>
+   [https://www.youtube.com/watch?v=mYcLuWHzfmE](https://www.youtube.com/watch?v=mYcLuWHzfmE)
+
+4. **Video - The Map of Superconductivity** <br>
+   [https://www.youtube.com/watch?v=bD2M7P6dTVA](https://www.youtube.com/watch?v=bD2M7P6dTVA)
+
+5. **“Surely You’re Joking, Mr. Feynman!”: Adventures of a Curious Character** <br>
    by Richard P. Feynman, Ralph Leighton
 
-3. **"What Do You Care What Other People Think?": Further Adventures of a Curious Character** <br>
+6. **"What Do You Care What Other People Think?": Further Adventures of a Curious Character** <br>
    by Richard P. Feynman, Ralph Leighton
 
-4. **The Flying Circus of Physics** <br>
+7. **The Flying Circus of Physics** <br>
    by Jearl Walker
 
-5. **For the Love of Physics: From the End of the Rainbow to the Edge of Time - A Journey Through the Wonders of Physics** <br>
+8. **For the Love of Physics: From the End of the Rainbow to the Edge of Time - A Journey Through the Wonders of Physics** <br>
    by Walter Lewin, Warren Goldstein
 
-6. **Astrophysics for People in a Hurry : Essays on the Universe and Our Place Within It** <br>
+9. **Astrophysics for People in a Hurry : Essays on the Universe and Our Place Within It** <br>
    by Neil de Grasse Tyson
 
-7. **The Physics Book: Big Ideas Simply Explained** <br>
+10. **The Physics Book: Big Ideas Simply Explained** <br>
    by DK, Jim Al-Khalili
 
-8. **The Astronomy Book: Big Ideas Simply Explained** <br>
+11. **The Astronomy Book: Big Ideas Simply Explained** <br>
    by DK
 
-9.  **Powers of Ten** <br>
+12.  **Powers of Ten** <br>
    by Philip Morrison, Phylis Morrison
 
 
