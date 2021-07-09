@@ -199,19 +199,34 @@ One of the most valuable resources in math and physics from school to college. <
 
 ## Relativity
 
-1. **Spacetime and Geometry: An Introduction to General Relativity** <br>
+1. **Video - Special Relativity** <br>
+   [https://www.youtube.com/watch?v=uTyAI1LbdgA](https://www.youtube.com/watch?v=uTyAI1LbdgA)
+
+2. **Video - What is General Relativity?** <br>
+   [https://www.youtube.com/watch?v=DYq774z4dws](https://www.youtube.com/watch?v=DYq774z4dws)
+
+3. **Video - A new way to visualize General Relativity** <br>
+   [https://www.youtube.com/watch?v=wrwgIjBUYVc](https://www.youtube.com/watch?v=wrwgIjBUYVc)
+
+4. **Video - Visualizing Time Dilation** <br>
+   [https://www.youtube.com/watch?v=5qQheJn-FHc](https://www.youtube.com/watch?v=5qQheJn-FHc)
+
+5. **Video series - The Maths of General Relativity** <br>
+   [https://www.youtube.com/playlist?list=PLu7cY2CPiRjVY-VaUZ69bXHZr5QslKbzo](https://www.youtube.com/playlist?list=PLu7cY2CPiRjVY-VaUZ69bXHZr5QslKbzo) 
+
+6. **Spacetime and Geometry: An Introduction to General Relativity** <br>
    by Sean M. Carroll
 
-2. **A First Course in General Relativity 2nd Ed** <br>
+7. **A First Course in General Relativity 2nd Ed** <br>
    by Bernard Schutz
 
-3. **A Student's Manual for A First Course in General Relativity** <br>
+8. **A Student's Manual for A First Course in General Relativity** <br>
    by Robert B. Scott
 
-4. **Gravitation** <br>
+9.  **Gravitation** <br>
    by Charles W. Misner, Kip S. Thorne, John Archibald Wheeler, David I. Kaiser
 
-5. **Modern General Relativity: Black Holes, Gravitational Waves, and Cosmology** <br>
+10. **Modern General Relativity: Black Holes, Gravitational Waves, and Cosmology** <br>
    by Mike Guidry
 
 
@@ -259,22 +274,28 @@ One of the most valuable resources in math and physics from school to college. <
 
 ## Modern Physics
 
-1. **Deep Down Things: The Breathtaking Beauty of Particle Physics** <br>
+1. **Video - The Standard Model** <br>
+   [https://www.youtube.com/watch?v=44k7cMj_kpY](https://www.youtube.com/watch?v=44k7cMj_kpY)
+
+2. **Video - The Symmetries of the universe** <br>
+   [https://www.youtube.com/watch?v=hF_uHfSoOGA](https://www.youtube.com/watch?v=hF_uHfSoOGA)
+
+3. **Deep Down Things: The Breathtaking Beauty of Particle Physics** <br>
    by Bruce A. Schumm
 
-2. **Modern Physics for Scientists and Engineers, 2th Ed** <br>
+4. **Modern Physics for Scientists and Engineers, 2th Ed** <br>
    by John R. Taylor, Chris D. Zafiratos, Michael A. Dubson
 
-3. **Introduction to Elementary Particles 2nd Ed** <br>
+5. **Introduction to Elementary Particles 2nd Ed** <br>
    by David Griffiths
 
-4. **Modern Particle Physics** <br>
+6. **Modern Particle Physics** <br>
    by Mark Thomson
 
-5. **Modern Quantum Mechanics** <br>
+7. **Modern Quantum Mechanics** <br>
    by J. J. Sakurai, Jim Napolitano
 
-6. **Modern Physics 3rd Ed** <br>
+8. **Modern Physics 3rd Ed** <br>
    by Kenneth S. Krane
 
 
@@ -299,18 +320,24 @@ One of the most valuable resources in math and physics from school to college. <
    by P. M. Chaikin, T. C. Lubensky
 
 
-## Field Theory
+## Quantum Field Theory
 
-1. **Quantum Field Theory for the Gifted Amateur** <br>
+1. **Video - Quantum Electrodynamics and Feynman Diagrams** <br>
+   [https://www.youtube.com/watch?v=X-FEU4mQWtE](https://www.youtube.com/watch?v=X-FEU4mQWtE)
+
+2. **Video - Quantum Field Theory visualized** <br>
+   [https://www.youtube.com/watch?v=MmG2ah5Df4g](https://www.youtube.com/watch?v=MmG2ah5Df4g)
+
+3. **Quantum Field Theory for the Gifted Amateur** <br>
    by Tom Lancaster, Stephen J. Blundell
 
-2. **Quantum Field Theory in a Nutshell, 2nd Ed** <br>
+4. **Quantum Field Theory in a Nutshell, 2nd Ed** <br>
    by A. Zee
 
-3. **Student Friendly Quantum Field Theory 2nd Ed** <br>
+5. **Student Friendly Quantum Field Theory 2nd Ed** <br>
    by Robert D. Klauber
 
-4. **Solutions to Problems for Student Friendly Quantum Field Theory** <br>
+6. **Solutions to Problems for Student Friendly Quantum Field Theory** <br>
    by Robert D. Klauber
 
 
@@ -536,6 +563,13 @@ One of the most valuable resources in math and physics from school to college. <
 
 4. **Schaum's Outline of Organic Chemistry** <br>
    by Herbert Meislich, Howard Nechamkin
+
+
+# All my other guides
+
+* The links to all my guides are in: <br>
+  **Guides on Linux - Programming - Embedded - Electronics - Aeronautics** <br>
+  [https://github.com/joaocarvalhoopen/Guides_Linux-Programming-Electronics-Aeronautics](https://github.com/joaocarvalhoopen/Guides_Linux-Programming-Electronics-Aeronautics)
 
 
 # Have fun!
