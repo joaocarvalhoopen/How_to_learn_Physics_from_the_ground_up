@@ -253,22 +253,25 @@ One of the most valuable resources in math and physics from school to college. <
 1. **Quantum Mechanics: Concepts and Applications, 2nd Ed** <br>
    by Nouredine Zettili
 
-2. **Introduction to Quantum Mechanics 3rd Ed** <br>
+2. **The Principles of Quantum Mechanics, 4th Ed** <br>
+   by Paul Dirac
+
+3. **Introduction to Quantum Mechanics 3rd Ed** <br>
    by David J. Griffiths
 
-3. **Principles of Quantum Mechanics, 2nd Ed** <br>
+4. **Principles of Quantum Mechanics, 2nd Ed** <br>
    by R. Shankar
 
-4. **The Quantum Cookbook: Mathematical Recipes for the Foundations of Quantum Mechanics** <br>
+5. **The Quantum Cookbook: Mathematical Recipes for the Foundations of Quantum Mechanics** <br>
    by Jim Baggott
 
-5. **Mécanique quantique: Tome 1** <br>
+6. **Mécanique quantique: Tome 1** <br>
    by Claude Cohen-Tannoudji, Bernard Diu, Franck Laloë
 
-6. **Mécanique quantique: Tome 2** <br>
+7. **Mécanique quantique: Tome 2** <br>
    by Claude Cohen-Tannoudji, Bernard Diu, Franck Laloë
 
-7. **Mécanique quantique: Tome 3, Fermions, bosons, photons, corrélations et intrication** <br>
+8. **Mécanique quantique: Tome 3, Fermions, bosons, photons, corrélations et intrication** <br>
    by Claude Cohen-Tannoudji, Bernard Diu, Franck Laloë
 
 
