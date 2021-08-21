@@ -248,6 +248,48 @@ One of the most valuable resources in math and physics from school to college. <
    by Daniel Fleisch, Julia Kregenow
 
 
+## Celestial Mechanics
+
+1. **Video - Carl Sagan's Pale Blue Dot** <br>
+   [https://www.youtube.com/watch?v=GO5FwsblpT8](https://www.youtube.com/watch?v=GO5FwsblpT8)
+
+2. **Astro-rust** - Open source program to study that implements the mathematic calculations of the next book, no Celestial Mechanics. <br>
+   [https://github.com/saurvs/astro-rust](https://github.com/saurvs/astro-rust)
+
+3. **Astronomical Algorithms, 2nd Ed** <br>
+   by Jean Meeus<br>
+   [https://www.willbell.com/math/mc1.htm](https://www.willbell.com/math/mc1.htm)
+
+
+**Astronomical Morsels** <br>
+
+4. **Mathematical Astronomy Morsels** <br>
+   by Jean Meeus <br>
+   [https://www.willbell.com/math/mc16.htm](https://www.willbell.com/math/mc16.htm)
+
+5. **More Mathematical Astronomy Morsels** <br>
+   by Jean Meeus <br>
+   [https://www.willbell.com/math/moremorsels.htm](https://www.willbell.com/math/moremorsels.htm)
+
+6. **Mathematical Astronomy Morsels III** <br>
+   by Jean Meeus <br>
+   [https://www.willbell.com/math/MC18.htm](https://www.willbell.com/math/MC18.htm)
+
+7. **Mathematical Astronomy Morsels IV** <br>
+   by Jean Meeus <br>
+   [https://www.willbell.com/math/MorselsIV.htm](https://www.willbell.com/math/MorselsIV.htm)
+
+8. **Mathematical Astronomy Morsels V** <br>
+   by Jean Meeus <br>
+   [https://www.willbell.com/math/MorselsV.htm](https://www.willbell.com/math/MorselsV.htm)
+
+
+**Men made orbits and N-body problem.** <br>
+
+9. **Fundamentals of Astrodynamics 2nd Ed** <br> 
+   by Roger Bate, Donald Mueller, Jerry White, William Saylor
+
+
 ## Quantum Mechanics
 
 1. **Quantum Mechanics: Concepts and Applications, 2nd Ed** <br>
