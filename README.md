@@ -247,6 +247,12 @@ One of the most valuable resources in math and physics from school to college. <
 5. **A Student's Guide to the Mathematics of Astronomy** <br>
    by Daniel Fleisch, Julia Kregenow
 
+For **Radio Astronomy** <br>
+
+* See my guide on electronics. <br>
+  **How to learn modern electronics** <br>
+  [https://github.com/joaocarvalhoopen/How_to_learn_modern_electronics](https://github.com/joaocarvalhoopen/How_to_learn_modern_electronics)
+
 
 ## Celestial Mechanics
 
